@@ -1,0 +1,13 @@
+.lixeira{cursor: pointer;}
+
+.checked {
+    text-decoration: line-through;
+    cursor: pointer;
+  }
+
+  .lista{
+    cursor: pointer;
+  }
+
+  input{width:300px !important; margin-right: 50px;}
+  .dis{display: flex !important;}
